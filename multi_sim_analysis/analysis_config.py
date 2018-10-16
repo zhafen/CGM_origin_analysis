@@ -31,7 +31,7 @@ MASS_BINS = {
     'm11b' : 'm10',
 }
 
-SNUM = 600
+SNUM = 172
 
 GALDEF = '_galdefv3'
 
