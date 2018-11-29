@@ -678,7 +678,7 @@ current_redshift = w.redshift[snum]
 
 
 ## decide which part types to save to JSON
-reader.returnParts = [ 'PartType1', 'PartType4', ]
+reader.returnParts = [ 'PartType4', ]
 originalReturnParts = copy.copy( reader.returnParts )
 
 ## choose the names the particle types will get in the UI
