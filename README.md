@@ -1,2 +1,2 @@
 # CGM_origin_analysis
-Code used for Hafen+2018 (in prep)
+Code used for Hafen et al. 2018.
